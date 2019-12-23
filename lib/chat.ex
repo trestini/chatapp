@@ -13,6 +13,7 @@ defmodule Chat do
 
   """
   def hello do
+    IO.puts "aqui eh hello, caralho"
     :world
   end
 end
